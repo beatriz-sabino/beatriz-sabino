@@ -114,8 +114,8 @@ I started this journey by learning Python and at the time I did a few courses on
 
 <div align="center">
   <a href="https://github.com/beatriz-sabino">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=beatriz-sabino&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatriz-sabino&layout=compact&langs_count=7&theme=react"/>  
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=beatriz-sabino&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatriz-sabino&layout=compact&langs_count=7&theme=react"/>  
 </div>
 
 <br>
