@@ -2,25 +2,27 @@
 
 <br>
 
-<h1> Hi! I'm <span style="color:#8BD0DB">Beatriz</span> 👋 </h1>
+# Hi! I'm Beatriz! 👋
+
  
 `I'm a self-taught developer who found her passion for programming during the pandemic.`
 
 <p style="text-align: justify; text-justify: inter-word">Before that I was finishing my Master's Degree in Biomedical Sciences and desiring to purse a career in Forensic Genetics.
 I started this journey by learning Python and at the time I did a few courses online, participated in a workshop organized by <a href="https://raparigasdocodigo.pt/" style = "text-decoration:none; color: inherit" >As Raparigas do Código.</a></p>
-<h3 align="center" style="color:#8BD0DB; font-weight:bold">This was my first step into the tech world!</h3>
 
-#
+<h3 align="center" font-weight:bold">This was my first step into the tech world!</h3>
 
-<h2 style="color:#8BD0DB">📱 Let's Talk</h2>
+<br>
+
+### 📱 Let's Talk
 <div>
     <a style="margin-right: 5px" href="https://www.linkedin.com/in/beatriz-sabino96/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href = "mailto:biia.sabino96@gmail.com"><img  src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-#
+<br>
 
-<h2 style="color:#8BD0DB">🧰 Languages and Tools</h2>
+### 🧰 Languages and Tools
 <p align="left" dir="auto">
 
    <a style = "text-decoration:none; margin-right:5px" href="https://https://www.python.org/" rel="nofollow">
@@ -79,9 +81,9 @@ I started this journey by learning Python and at the time I did a few courses on
   </a>
 </p>
 
-#
+<br>
 
-<h2 style="color:#8BD0DB">👩‍💻 I'm currently learning</h2>
+### 👩‍💻 I'm currently learning
 <p align="left" dir="auto">
 
    <a style = "text-decoration:none; margin-right:5px" href="https://flask.palletsprojects.com/en/2.2.x/" rel="nofollow">
@@ -104,8 +106,9 @@ I started this journey by learning Python and at the time I did a few courses on
   </a>
 </p>
 
-#
-<h2 style="color:#8BD0DB">📈 My Stats</h2>
+<br>
+
+### 📈 My Stats</h2>
 <br>
 
 <div align="center">
