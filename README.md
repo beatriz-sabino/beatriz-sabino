@@ -8,7 +8,7 @@
 
 
 <p style="text-align: justify; text-justify: inter-word">I'm a self-taught developer who found her passion for programming during the pandemic.</p>
-<p style="text-align: justify; text-justify: inter-word">Before that I was finishing my Master's Degree in Biomedical Sciences and desiring to purse a career in Forensic Genetics.
+<p style="text-align: justify; text-justify: inter-word">Before that I was finishing my Master's Degree in Biomedical Sciences and desiring to pursue a career in Forensic Genetics.
 I started this journey by learning Python and at the time I did a few courses online, participated in a workshop organized by <a href="https://raparigasdocodigo.pt/" style = "text-decoration:none; color: inherit" >As Raparigas do Código.</a></p>
 
 <h3 align="center" font-weight:bold">This was my first step into the tech world!</h3>
