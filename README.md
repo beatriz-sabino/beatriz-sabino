@@ -1,10 +1,6 @@
-<p align="center"><img align = "center" src="images/beatriz_sabino - logo.png" /></p>
-
-<br>
+<p align="center"><img align="center" src="images/beatriz sabino - logo.png" height=400px/></p>
 
 # Hi! I'm Beatriz! 👋
-
- 
 
 
 <p style="text-align: justify; text-justify: inter-word">I'm a self-taught developer who found her passion for programming during the pandemic.</p>
